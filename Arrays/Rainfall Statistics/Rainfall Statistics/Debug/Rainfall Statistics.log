@@ -1,0 +1,6 @@
+﻿  main.cpp
+c:\users\ryan\desktop\c++\arrays\rainfall statistics\rainfall statistics\main.cpp(90): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\ryan\desktop\c++\arrays\rainfall statistics\rainfall statistics\main.cpp(96): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\ryan\desktop\c++\arrays\rainfall statistics\rainfall statistics\main.cpp(106): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\ryan\desktop\c++\arrays\rainfall statistics\rainfall statistics\main.cpp(112): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Rainfall Statistics.vcxproj -> C:\Users\Ryan\Desktop\C++\Arrays\Rainfall Statistics\Debug\Rainfall Statistics.exe
