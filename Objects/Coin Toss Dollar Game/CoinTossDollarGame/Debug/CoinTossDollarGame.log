@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\ryan\desktop\cpp\cointossdollargame\cointossdollargame\main.cpp(14): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\ryan\desktop\cpp\cointossdollargame\cointossdollargame\main.cpp(115): warning C4715: 'checkBalance': not all control paths return a value
+  CoinTossDollarGame.vcxproj -> C:\Users\Ryan\Desktop\cpp\CoinTossDollarGame\Debug\CoinTossDollarGame.exe
