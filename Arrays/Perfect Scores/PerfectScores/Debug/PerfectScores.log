@@ -1,0 +1,3 @@
+﻿  main.cpp
+c:\users\ryan\desktop\cpp\perfectscores\perfectscores\main.cpp(14): warning C4101: 'score': unreferenced local variable
+  PerfectScores.vcxproj -> C:\Users\Ryan\Desktop\cpp\PerfectScores\Debug\PerfectScores.exe
