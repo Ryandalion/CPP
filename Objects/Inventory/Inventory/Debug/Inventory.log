@@ -1,0 +1,3 @@
+﻿  main.cpp
+c:\users\ryan\desktop\cpp\inventory\inventory\main.cpp(15): warning C4101: 'useroption': unreferenced local variable
+  Inventory.vcxproj -> C:\Users\Ryan\Desktop\cpp\Inventory\Debug\Inventory.exe
