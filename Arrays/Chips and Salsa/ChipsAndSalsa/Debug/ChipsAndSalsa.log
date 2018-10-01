@@ -1,0 +1,3 @@
+﻿  main.cpp
+c:\users\ryan\desktop\cpp\chipsandsalsa\chipsandsalsa\main.cpp(38): warning C4101: 'range': unreferenced local variable
+  ChipsAndSalsa.vcxproj -> C:\Users\Ryan\Desktop\cpp\ChipsAndSalsa\Debug\ChipsAndSalsa.exe
