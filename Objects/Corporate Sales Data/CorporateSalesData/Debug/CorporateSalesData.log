@@ -1,0 +1,6 @@
+﻿  main.cpp
+c:\users\ryan\desktop\cpp\corporatesalesdata\corporatesalesdata\main.cpp(47): warning C4101: 'q4': unreferenced local variable
+c:\users\ryan\desktop\cpp\corporatesalesdata\corporatesalesdata\main.cpp(47): warning C4101: 'q2': unreferenced local variable
+c:\users\ryan\desktop\cpp\corporatesalesdata\corporatesalesdata\main.cpp(47): warning C4101: 'q1': unreferenced local variable
+c:\users\ryan\desktop\cpp\corporatesalesdata\corporatesalesdata\main.cpp(47): warning C4101: 'q3': unreferenced local variable
+  CorporateSalesData.vcxproj -> C:\Users\Ryan\Desktop\cpp\CorporateSalesData\Debug\CorporateSalesData.exe
