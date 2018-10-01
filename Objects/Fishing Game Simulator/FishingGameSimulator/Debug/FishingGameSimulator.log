@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\ryan\desktop\cpp\fishinggamesimulator\fishinggamesimulator\main.cpp(20): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\ryan\desktop\cpp\fishinggamesimulator\fishinggamesimulator\main.cpp(55): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  FishingGameSimulator.vcxproj -> C:\Users\Ryan\Desktop\cpp\FishingGameSimulator\Debug\FishingGameSimulator.exe
