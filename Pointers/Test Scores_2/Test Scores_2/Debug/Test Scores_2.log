@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\ryan\desktop\c++\pointers\test scores_2\test scores_2\main.cpp(31): warning C4101: 'score': unreferenced local variable
+c:\users\ryan\desktop\c++\pointers\test scores_2\test scores_2\main.cpp(32): warning C4101: 'average': unreferenced local variable
+  Test Scores_2.vcxproj -> C:\Users\Ryan\Desktop\C++\Pointers\Test Scores_2\Debug\Test Scores_2.exe
