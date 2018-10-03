@@ -1,0 +1,3 @@
+﻿  main.cpp
+c:\users\ryan\desktop\c++\pointers\median function\median function\main.cpp(57): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Median Function.vcxproj -> C:\Users\Ryan\Desktop\C++\Pointers\Median Function\Debug\Median Function.exe
