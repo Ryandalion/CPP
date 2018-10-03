@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\ryan\desktop\c++\pointers\movie statistics\movie statistics\main.cpp(44): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\ryan\desktop\c++\pointers\movie statistics\movie statistics\main.cpp(109): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Movie Statistics.vcxproj -> C:\Users\Ryan\Desktop\C++\Pointers\Movie Statistics\Debug\Movie Statistics.exe
